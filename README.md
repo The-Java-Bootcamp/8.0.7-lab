@@ -3,7 +3,7 @@
 **Objective:**
 
 - Understand the concept and importance of inheritance in Java development.
-- Learn how to implement inheritance using Java's extends keyword and super() method.
+- Learn how to implement inheritance using Java's extends keyword and `super()` method.
 - Explore practical applications of inheritance in real-world Java projects.
 - Identify common pitfalls and best practices when working with inheritance.
 - Gain hands-on experience with a complete Java example that demonstrates inheritance.
